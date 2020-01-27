@@ -1,4 +1,4 @@
 # ANTH-641_Week-2
 
- 
-![alt text](Ironworking_Vis_Test.svg)
+This is the first week of in-class exercises. Exercises can be downloaded from this repo in pdf form.  
+
