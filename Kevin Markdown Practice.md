@@ -10,4 +10,4 @@ I'm interested in:
 + how to make use of all the data we create
 + ways to utilize digital technologies to enage the public. 
 
-![alt text](http://dhblog.maynoothuniversity.ie/cryan/wp-content/uploads/2016/12/Mesh-of-Stones-470x280.jpg)
+![alt text](Ironworking_Vis_Test.svg)
