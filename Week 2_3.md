@@ -14,7 +14,7 @@ You should now have a repo in your account that mirrors the one from ODAT
 
 6.	Name it “Last name_notebook.md”
 
-7.	Edit the new markdown file you just created to include the new link you made in #3 '''[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/yourgithubusername/notebooks/master'''
+7.	Edit the new markdown file you just created to include the new link you made in #3: 
 
 8.	In addition to the link you embedded in your readme file in the forked notebook repository, you can now use this to easily access your notebook in mybinder! 
 ## Creating an R Notebook 
