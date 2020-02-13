@@ -53,11 +53,15 @@ par(mai=c(0,0,0,0))
 plot(awmc.roman.empire.200.sp)
 
 This should plot a map of the Roman Empire’s extent in 200. 
+
 6.	Let’s see what other data sets are in here. Type:
 	data()
 
 Any of the datasets you see that end with .sp can be plotted the same way as we did above.
+
 7.	Play around with the data. Visualize the data (ending with .sp) in the same way as above, or look at the data as a table. Add Markdown cells and make notes about what kind of data you’re coming across. More information about the cawd see Sebastian Heath’s repo [here](https://github.com/sfsheath/cawd). Because you know how to add links to your markdown, you can also link your work to articles in JSTOR for instance, or other websites - library permalinks, data repositories, and so on.
+
 8.	When you’re done, go to File and seletc Download as -> Notebook 
+
 9.	Upload this Notebook into your Week 2_notebooks GitHub repo. 
  
