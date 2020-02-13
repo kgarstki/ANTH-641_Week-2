@@ -1,8 +1,8 @@
 # Week 2: Exercise 1 - GitHub
-_This activity was based on the instructions found here. The concepts and take-aways are aligned with those found in ODAT chapter 1.3, so make sure you read the accompanying text._
+_This activity was based on the instructions found [here](https://guides.github.com/activities/hello-world/). The concepts and take-aways are aligned with those found in [ODAT chapter 1.3](https://o-date.github.io/draft/book/github-version-control.html), so make sure you read the accompanying text._
 
 ### Getting started with GitHub
-1. Go here and follow the instructions to start a GitHub account
+1. Go [here](https://github.com/) and follow the instructions to start a GitHub account
 2. When you have an account, search for "kgarstki" and follow me. 
 
 __Create a Repository in GitHub.__ A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. I recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository.
