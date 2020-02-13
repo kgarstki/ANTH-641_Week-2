@@ -12,6 +12,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. Mar
 https://youtu.be/Gxb88ujao-U 
 
 https://youtu.be/ip7HFi8zozY 
+
 6.	When you’re done, click the ‘export as’ dropdown, and select ‘markdown’. Keep a note of where the file has downloaded to on your machine.
 Upload to GitHub
 1.	In your GitHub page, open your repository “ANTH 641_Week 2” 
