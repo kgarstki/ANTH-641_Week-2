@@ -11,6 +11,7 @@ __Create a Repository in GitHub.__ A repository is usually used to organize a si
 2.	Name your repository “ANTH 641_Week 2” 
 3.	Write a short description
 4.	Select __Initialize this repository with a README.__
+![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image2.png)
 5.	Click __Create repository__
 
 __Create a Branch.__ Branching is the way to work on different versions of a repository at one time. By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
@@ -19,7 +20,7 @@ This diagram shows:
 •	The master branch
 •	A new branch called feature (because we’re doing ‘feature work’ on this branch)
 •	The journey that feature takes before it’s merged into master
-
+![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image3.png)
 Have you ever saved different versions of a file? Something like:
 •	story.txt
 •	story-joe-edit.txt
@@ -31,7 +32,7 @@ To Create a New Branch:
 2.	Click the drop down at the top of the file list that says __branch: master__
 3.	Type a branch name, “readme-edits”, into the new branch text box.  
 4.	Select the blue Create branch box or hit “Enter” on your keyboard. 
-
+![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image4.png)
 Now you have two branches, “master” and “readme-edits”. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
 __Make and commit changes.__ Now, you’re on the code view for your readme-edits branch, which is a copy of master. Let’s make some edits.
@@ -42,6 +43,8 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 3.	In the editor, write a bit about yourself.
 4.	Write a commit message that describes your changes.
 5.	Click __Commit changes__ button.
+![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image5.png)
+![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image6.png)
 
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from master.
 
