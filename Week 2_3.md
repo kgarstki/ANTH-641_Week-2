@@ -3,12 +3,19 @@ Some of the digital work we’ll be doing this semester will be through an open 
 1.	Log into your GitHub account. Go to the ODAT notebooks repository [here](https://github.com/o-date/notebooks). In the top right corner you’ll see the Fork button. Click on that. 
 
 You should now have a repo in your account that mirrors the one from ODAT
+
 2.	First, go to the Settings tab in the upper right side of the notebooks repository and rename it “Week 2_notebooks.”
+
 3.	Read through the readme document that should be the default file to come up. 
+
 4.	Follow those instructions to create your own Jupyter notebook. 
+
 5.	When you have your mybinder link to your Jupyter notebook create a new file in your notebook GitHub repository 
+
 6.	Name it “Last name_notebook.md”
+
 7.	Edit the new markdown file you just created to include the new link you made in #3 ([![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/yourgithubusername/notebooks/master)
+
 8.	In addition to the link you embedded in your readme file in the forked notebook repository, you can now use this to easily access your notebook in mybinder! 
 ## Creating an R Notebook 
 R is a programming language that is open and has a very active ecosystem of researchers creating useful packages that do various things. This ecosystem is peer-reviewed. Once a package has been peer reviewed, we can install it in R with the command install.packages("name-of-the-package"). This text is taken from [ODAT 1.4](https://o-date.github.io/draft/book/open-notebook-research-scholarly-communication.html). 
