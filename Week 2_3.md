@@ -28,10 +28,8 @@ R is a programming language that is open and has a very active ecosystem of rese
 4.	Rename the file “Last Name_Exercise3a” by clicking on the “Untitled” name at the top of the page. 
 5.	In an R notebook, code blocks may be added with the + and repositioned with the up and down arrow buttons. Press Run to execute the code in that block. Markdown blocks are added the same way, but change the type of block by clicking the dropdown and selecting markdown.
 6.	R comes pre-loaded with many datasets. Let’s try to visualize some right now. In the first link type in “UScitiesD” and press Run. 
-![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image11.png)
 
 7.	You should see a table of data distances between different US cities. This is one way to look at the data. Another way is through a graph or plot. On the next line type “plot(UScitiesD).”
-![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image12.png)
 
 8.	You should see a scatter plot of the distances between cities. In the next line, change it to a Markdown block using the dropdown menu on the toolbar. Write a few sentences about what patterns you see (if any!). 
 9.	Next, let’s look at the data of people who survived the Titanic. In your next line, type “Titanic” Note: capitalization matters. 
