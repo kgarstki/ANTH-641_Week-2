@@ -4,6 +4,7 @@ _This activity was based on the instructions found [here](https://guides.github.
 ### Getting started with GitHub
 1. Go [here](https://github.com/) and follow the instructions to start a GitHub account
 2. When you have an account, search for "kgarstki" and follow me. 
+![alt text](https://github.com/kgarstki/ANTH-641_Week-2/blob/master/Images/Image1.png)
 
 __Create a Repository in GitHub.__ A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. I recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository.
 1.	When you’re on your GitHub page, go to the upper right corner, next to your avatar or identicon, click + and then select __New repository__.
