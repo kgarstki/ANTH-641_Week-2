@@ -53,23 +53,23 @@ As soon as you make a commit, you can open a pull request and start a discussion
 4.	When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
 5.	Give your pull request a title and write a brief description of your changes. Then click on the green Create pull request button. 
 
-__Merge your Pull Request__In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
+__Merge your Pull Request__ In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
 1.	Click the green __Merge pull request__ button to merge the changes into master.
 2.	Click __Confirm merge__.
 3.	Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
-4.	
+
 You did it!! Review the terms you learned
-•	repository: a single folder that holds all of the files and subfolders of your project
-•	commit: this means, ‘take a snapshot of the current state of my repository’
-•	publish: take my folder on my computer, and copy it and its contents to the web as a repository at github.com/myusername/repositoryname
-•	sync: update the web repository with the latest commit from my local folder
-•	branch: make a copy of my repository with a ‘working name’
-•	merge: fold the changes I have made on a branch into another branch
-•	fork: to make a copy of someone else’s repo
-•	clone: to copy an online repo onto your own computer
-•	pull request: to ask the original maker of a repo to ‘pull’ your changes into their master, original, repository
-•	push: to move your changes from your computer to the online repo
-•	conflict: when two commits describe different changes to the same part of a file
++ repository: a single folder that holds all of the files and subfolders of your project
++	commit: this means, ‘take a snapshot of the current state of my repository’
++	publish: take my folder on my computer, and copy it and its contents to the web as a repository at github.com/myusername/repositoryname
++	sync: update the web repository with the latest commit from my local folder
++	branch: make a copy of my repository with a ‘working name’
++	merge: fold the changes I have made on a branch into another branch
++	fork: to make a copy of someone else’s repo
++	clone: to copy an online repo onto your own computer
++	pull request: to ask the original maker of a repo to ‘pull’ your changes into their master, original, repository
++	push: to move your changes from your computer to the online repo
++	conflict: when two commits describe different changes to the same part of a file
 
 
 
