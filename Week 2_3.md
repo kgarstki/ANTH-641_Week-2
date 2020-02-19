@@ -43,7 +43,9 @@ As ODAT mentions in 1.4, sometimes we want to use packages that someone has deve
 1.	Create a new R notebook. Title it “Last Name_Exercise3b”
 2.	Right now, we would like to install a useful package by archaeologist Sebastian Heath called ‘cawd’ (“Collected Ancient World data sets for R.”). In the first cell of your new R notebook, type the following:
 install.packages("devtools")
+
 devtools::install_github("sfsheath/cawd")
+
 install.packages("sp")
 
 3.	Select the cell, and hit the run button.  
